@@ -1,7 +1,10 @@
-Add and check books & authors into your mongoDB.
-*Requires Postman to check GET & POST methods*
+# Book server
 
-Uses:
+## Technologies
+- Node.js
+- MongoDB
+
+## Dependencies
 **-bcrypt,
 -body-parser,
 -express,
@@ -10,10 +13,20 @@ Uses:
 -morgan,
 -multer**
 
-First:
+## Features
 
-*npm install*
+- Adding books & authors into MongoDB
+- Retrieving data from database
 
-Second:
+## Installation & start
+First **_npm install_**
 
-*nodemon server.js*
+Second **_nodemon server.js_**
+
+*To check if the GET and POST methods work you need to use Postman*
+
+## Requirements
+
+* Installed Node.js
+* MongoDB
+* Postman
