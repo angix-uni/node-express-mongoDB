@@ -3,15 +3,17 @@
 ## Technologies
 - Node.js
 - MongoDB
+- Express
 
 ## Dependencies
-**-bcrypt,
--body-parser,
--express,
--jsonwebtoken,
--mongoose,
--morgan,
--multer**
+- bcrypt
+- body-parser
+- express
+- jsonwebtoken
+- mongoose
+- morgan
+- multer
+- nodemon
 
 ## Features
 
