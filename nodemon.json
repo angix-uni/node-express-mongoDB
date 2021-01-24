@@ -1,6 +1,6 @@
 {
     "env": {
-        "ATLAS_PASS": "admin1",
-        "JWT_PASS": "haslo"
+        "ATLAS_PASS": "YOUR_USERNAME",
+        "JWT_PASS": "YOUR_PASSWORD"
     }
 }
