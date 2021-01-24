@@ -6,7 +6,7 @@ const mongoose = require("mongoose");
 
 const app = express();
 
-mongoose.connect("mongodb+srv://admin1:"+ process.env.ATLAS_PASS +"@cluster1.oar74.mongodb.net/shop?retryWrites=true&w=majority",
+mongoose.connect(YOUR MONGODB CONNECTION,
 {useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true});
 
 
