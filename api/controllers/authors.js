@@ -11,7 +11,7 @@ exports.authors_get_all = (req, res, next) => {
     })
     .catch((err) => {
         res.status(500).json({ 
-            Messgae: "Error",
+            Message: "Error",
             info: err,
             });
     })
